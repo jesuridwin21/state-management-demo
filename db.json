@@ -1,0 +1,10 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "marvel",
+      "author": "stanlee",
+      "cost": 500
+    }
+  ]
+}
